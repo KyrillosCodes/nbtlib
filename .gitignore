@@ -1,3 +1,6 @@
 .classpath
 .project
 .settings
+
+resource/*.dat
+src/lib/nbt/test
